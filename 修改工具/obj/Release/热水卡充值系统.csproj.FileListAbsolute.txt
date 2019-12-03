@@ -1,0 +1,14 @@
+E:\Workspace\热水卡充值系统\热水卡充值系统\bin\Release\热水卡充值系统.exe.config
+E:\Workspace\热水卡充值系统\热水卡充值系统\bin\Release\热水卡充值系统.exe
+E:\Workspace\热水卡充值系统\热水卡充值系统\bin\Release\热水卡充值系统.pdb
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.csprojResolveAssemblyReference.cache
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\MainWindow.g.cs
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\App.g.cs
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统_MarkupCompile.cache
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统_MarkupCompile.lref
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\MainWindow.baml
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.g.resources
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.Properties.Resources.resources
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.csproj.GenerateResource.Cache
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.exe
+E:\Workspace\热水卡充值系统\热水卡充值系统\obj\Release\热水卡充值系统.pdb
